@@ -3,7 +3,6 @@
 //  eLBee
 //
 //  Created by Jonathon Hibbard on 11/6/12.
-//  Copyright (c) 2012 Integrated Events, LLC. All rights reserved.
 //
 
 #import "CoreDataTVCDelegate.h"
