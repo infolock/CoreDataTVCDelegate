@@ -102,7 +102,8 @@
     return cell;
 }
 
-// This method is overriden by the subclass that extends CoreDataTVViewController
+#pragma mark REQUIRED Method to Override
+// This method is overriden by the subclass that extends CoreDataTVCDelegate
 -(void)configureCell:(UITableViewCell *)cell atIndexPath:(NSIndexPath *)indexPath {
     abort();
 }
